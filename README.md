@@ -1,10 +1,14 @@
-# Homework-week1
+# My-week 1
 
+This one is my first baby repo. I did some HTML and CSS. Touch up for title and also href.
 
-1. Created a new repository on my GitHub account and clone it to my computer. I used git clone command and then i put https URL.
+You can clone this repo.
 
-2. Used the `git add`, `git commit`, and `git push` commands to save and push the code to my GitHub repository.
+git clone `https://github.com/chergul/My-week1.git`
 
-3. Navigated to my GitHub repository in the browser and then I selected the Settings tab on the right side of the page.
+### Questions
 
+If you have any questions about this repo, you can open an issue, or contact directly at 
+`ceyda_hergul@hotmail.com`
 
+Pull requests are welcome
