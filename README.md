@@ -1,4 +1,4 @@
-# My-week 1
+# Horizon Online Marketing
 
 This one is my first baby repo. I did some HTML and CSS. Touch up for title and also href.
 
